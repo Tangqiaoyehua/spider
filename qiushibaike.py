@@ -81,5 +81,6 @@ class QSBK:
                 self.getOneStory(pageStories,nowPage)
  
 spider = QSBK()
+
 spider.start()
 
